@@ -18,10 +18,6 @@ export const staffTemplate =
                 "map": "initials"
             },
             {
-                "field": "initials",
-                "map": "initials"
-            },
-            {
                 "field": "firstName",
                 "map": "firstName"
             },
